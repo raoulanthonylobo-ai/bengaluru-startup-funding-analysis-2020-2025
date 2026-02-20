@@ -1,10 +1,9 @@
 # Indian Startup Funding Analysis (2020–2025) 💰
 **My First Data Project – Built from Scratch in Google Sheets**
 
-I didn't just download a dataset and make a few charts.  
-I dug into **real Indian startup funding data** (2020–2025 sample, ~1,100 rounds, ~$28 Billion USD total), cleaned messy dates like a pro, built **four targeted pivot tables + professional charts**, and turned raw numbers into actionable stories that actually matter in Bengaluru's startup scene.
+  Join me as I dig into **real Indian startup funding data** (2020–2025 sample, ~1,100 rounds, ~$28 Billion USD total), clean messy dates, build **four targeted pivot tables + professional charts**, and turned raw numbers into actionable stories that actually matter in Bengaluru's startup scene.
 
-This isn't a school assignment — it's me **proving I can spot trends recruiters care about**: which stages get the big money, which cities dominate, which sectors are eating the funding pie, and how the ecosystem evolved through boom, winter, and recovery.
+This is **Spotting trends enterprises care about**: which stages get the big money, which cities dominate, which sectors are eating the funding pie, and how the ecosystem evolved through boom, winter, and recovery.
 
 ### What I Actually Built & Why It Matters
 - **Cleaned & Transformed Raw Data**  
@@ -28,7 +27,7 @@ This isn't a school assignment — it's me **proving I can spot trends recruiter
   → Post-winter realism is here, but the ecosystem is alive and funding is flowing again.
 
 **Total funding captured in this analysis: ~$28 Billion USD**  
-That's not pocket change — it's proof India's startup engine is still one of the world's hottest.
+That's not pocket change - it's proof India's startup engine is still one of the world's hottest.
 
 ### Why This Project Stands Out
 - 100% self-taught execution in Google Sheets (no Python yet — keeping it accessible & fast)  
@@ -39,14 +38,11 @@ That's not pocket change — it's proof India's startup engine is still one of t
 
 ### Tech Stack (Simple but Effective)
 - Google Sheets  
-- Pivot Tables (4 custom-built)  
+- Pivot Tables (4 custom-built)
+- COUNTIF  
 - Built-in Charts (polished with custom formatting, sorted descending, readable billions-scale axis)  
 - Manual date parsing & cleaning
 
-### Next Level (Already Planned)
-- Move this to Python/Pandas + Seaborn/Plotly for interactivity  
-- Add averages, correlations, top investors breakdown  
-- Build a mini dashboard in Looker Studio or Streamlit
 
 Made in Bengaluru by **Raoul Anthony Lobo** — hungry to turn data into decisions for startups that actually win.  
 Open to feedback, brutal roasts, or collab ideas.  
